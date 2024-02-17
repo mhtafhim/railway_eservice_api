@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "t25krLGYjmL9wG89rK9yVZ7J3Vg46oSgB8qFSEPcH/U=",
+  "Source": "railway_eservice_api",
+  "BasePath": "_content/railway_eservice_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

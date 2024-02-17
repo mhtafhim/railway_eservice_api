@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\railway_eservice_api.props" />
+</Project>
