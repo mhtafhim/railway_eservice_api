@@ -35,7 +35,7 @@ Railway eService API is a RESTful web service designed for comprehensive railway
 
 #### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/railway_eservice_api.git
+git clone https://github.com/mhtafhim/railway_eservice_api.git
 cd railway_eservice_api
 ```
 
